@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">JO KEN PO</string>
+    <string name="appResultado">Clique na opção abaixo</string>
+    <string name="appJogoWin">Você ganhou!</string>
+    <string name="appJogoLoss">Você perdeu!</string>
+    <string name="appJogoDraw">Você empatou!</string>
+    <string name="appNomeCPU">CPU</string>
+    <string name="appNomePlayer">Você</string>
+    <string name="appScore">Pontuação</string>
+    <string name="appScoreNumber">0</string>
+    
+    <!-- Color do projeto -->
+    <color name="vermelho">#ff170f</color>
+    <color name="azul">#0f4bff</color>
+    <color name="appColorResultado">#000000</color>
+    
+    <drawable name="appImagePedra"></drawable>
+</resources>
